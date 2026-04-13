@@ -1,3 +1,6 @@
+---
+feature: image.png
+---
 # Embeds Reference
 
 ## Embed Notes
